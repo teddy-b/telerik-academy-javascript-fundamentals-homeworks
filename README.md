@@ -1,5 +1,5 @@
 # Telerik Academy - JavaScript Fundamentals - Homeworks
 
-Cource page:
+Course page:
 https://telerikacademy.com/Courses/Courses/Details/339
 
